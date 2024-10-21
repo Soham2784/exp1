@@ -1,2 +1,6 @@
 This is a text file
+<<<<<<< HEAD
 adding new data
+=======
+chnages added
+>>>>>>> sample
