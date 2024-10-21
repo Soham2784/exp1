@@ -1,5 +1,10 @@
 ddbgdb
 first change
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 second change 
+=======
+second change
+third change
+>>>>>>> new
