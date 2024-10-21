@@ -1,2 +1,10 @@
 This is a text file
+<<<<<<< HEAD
 changes added
+=======
+<<<<<<< HEAD
+changes added
+=======
+chnages added
+>>>>>>> sample
+>>>>>>> new
